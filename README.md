@@ -1,4 +1,4 @@
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> Computer engineer passionate about solving complex problems through technology.</p>&nbsp;
 <div align="center">
 <img src="ttps://github.com/Izabelalvess/Izabelalvess/assets/163313228/c4bb33dc-9f7f-454f-9f85-0802776ca87b" width="300px" />
 </div>
