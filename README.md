@@ -5,8 +5,8 @@ Especializado em automação de infraestrutura em nuvem, orquestração de cont�
 
 - 🔭 **Foco Atual:** Kubernetes, Terraform (IaC) e Observabilidade.
 - 🛠️ **Principais Tecnologias:** AWS, Docker, Kubernetes, Terraform, GitHub Actions, Prometheus & Grafana.
-- 📜 **Certificações:**AWS Solutions Architect, CKA, Terraform Associate.
-- 📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/bel-alvess/)](https://www.linkedin.com/in/bel-alvess/) | [E-mail](izabelalves754@gmail.com)
+- 📜 **Certificações:** AWS Solutions Architect, CKA, Terraform Associate.
+- 📫 **Como me encontrar:** LinkedIn (https://www.linkedin.com/in/bel-alvess/)](https://www.linkedin.com/in/bel-alvess/) | E-mail (izabelalves754@gmail.com)
 
 ---
 
